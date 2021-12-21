@@ -1,0 +1,63 @@
+﻿.quadroofertas {
+    display: flex;
+    height: 10px;
+    width: 10px;
+    background-attachment: fixed;
+    background-size: cover;
+    filter: brightness(95%);
+}
+
+.imgteste {
+    height: 10px;
+    width: 10px;
+    display: flex;
+    margin-top: 20px;
+}
+
+.teste1 {
+    margin-bottom: 40px;
+}
+
+.teste2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 20px;
+    flex-wrap:wrap;
+}
+
+.divquemsomos {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
+
+.textoamigos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    padding-top: 10px;
+    height: 250px;
+}
+
+
+.textooferta1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.confira {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+  .confira img {
+        width: 300px;
+        height: 200px;
+        flex-wrap:wrap;
+  }
